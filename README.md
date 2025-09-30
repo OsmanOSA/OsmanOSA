@@ -12,15 +12,15 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 
 <div align="center">
 
-🎯 **Actuellement :** Projet de *prévision de séries temporelles*  
-📚 **J’apprends :** Power BI · DBT · AWS · GCP  
-⚽ **Loisirs :** Football & Tai-chi  
+**Actuellement :** Projet de *prévision de séries temporelles*  
+**J’apprends :** Power BI · DBT · AWS · GCP  
+**Loisirs :** Football & Tai-chi  
 
 </div>
 
 ---
 
-<h2 align="center">📬 Me contacter</h2>
+<h2 align="center">Me contacter</h2>
 
 <div align="center"> 
   <a href="mailto:saidaliosman925@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
@@ -41,7 +41,7 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 
 ---
 
-<h2 align="center">📈 Contributions</h2>
+<h2 align="center">Contributions</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
@@ -49,7 +49,7 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 
 ---
 
-<h2 align="center">📊 Statistiques</h2>
+<h2 align="center">Statistiques</h2>
 
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-OsmanOSA.vercel.app/?user=OsmanOSA&count_private=true&theme=react&border_radius=10"/>
