@@ -33,7 +33,8 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,SQL,mysql,fastapi,flask,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,docker" /><br>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
 
 <br/>
