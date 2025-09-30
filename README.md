@@ -34,9 +34,10 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,flask,docker,airflow" /><br>
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/apache-airflow.png" height="40" />
+    <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/Streamlit-Logo-Vector.svg-.png" height="40" />
+    <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/5997976.png" height="40" />
+
 </div>
 
 <br/>
