@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Passionné par la transformation d'idées en réalité grâce à la Data et l'IA 🚀
+  Passionné par la transformation d'idées en réalité grâce à la Data et l'IA 
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <div align="center">
   
-| 🎯 Rôle Actuel | 🔭 Projet en Cours | 🌱 En Apprentissage | ⚽ Loisirs |
+| Rôle Actuel | Projet en Cours |  En Apprentissage |  Loisirs |
 |:---:|:---:|:---:|:---:|
 | Data Scientist / ML Engineer | Prévision de Séries Temporelles | Power BI · DBT · AWS · GCP | Football · Tai-chi |
 
@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center">📬 Retrouvez-moi sur</h2>
+<h2 align="center">Retrouvez-moi sur</h2>
 
 <p align="center">
   <a href="mailto:saidaliosman925@gmail.com">
@@ -39,7 +39,7 @@
 
 ---
 
-<h2 align="center">🧰 Ma Boîte à Outils Technologique</h2>
+<h2 align="center">Ma Boîte à Outils Technologique</h2>
 
 <div align="center">
 
@@ -76,7 +76,7 @@
 
 ---
 
-<h2 align="center">🚀 Mes Projets Favoris</h2>
+<h2 align="center">Mes Projets Favoris</h2>
 
 <div align="center">
   <a href="https://github.com/OsmanOSA/NOM_DU_REPO_1" target="_blank">
@@ -89,17 +89,26 @@
 
 ---
 
-<h2 align="center">📈 Mon Activité sur GitHub</h2>
+<h2 align="center">Mon Activité sur GitHub</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/output/github-contribution-grid-snake.svg" alt="Mes contributions" />
-  
-  <br/><br/>
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OsmanOSA&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=OsmanOSA&theme=tokyonight&border_radius=10&count_private=true" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanOSA&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&hide=HTML" />
 </div>
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=OsmanOSA&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&count_private=true" alt="Statistiques GitHub d'OsmanOSA" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-streak-stats.vercel.app/?user=OsmanOSA&theme=tokyonight&border_radius=10&count_private=true" alt="Séries de contributions d'OsmanOSA" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmanOSA&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&hide=HTML" alt="Langages les plus utilisés" />
+    </td>
+  </tr>
+</table>
