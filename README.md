@@ -29,17 +29,15 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
 
 ---
 
-<h2 align="center">🧰 Compétences Techniques</h2>
-
+<h2 align="center">Compétences techniques</h2>
+<br/>
 <div align="center">
-  
-<!-- Ligne 1 -->
-<img src="https://skillicons.dev/icons?i=python,sql,mysql,r,streamlit,fastapi,flask" />
-
-<!-- Ligne 2 -->
-<img src="https://skillicons.dev/icons?i=docker,airflow,github,github-actions,vscode" />
-
+    <img src="https://skillicons.dev/icons?i=html,css,plotly,vscode,github,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+
+<br/>
+<hr/>
 
 ---
 
