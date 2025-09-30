@@ -37,6 +37,7 @@ Data & Machine Learning Enthusiast — Je transforme les données en décisions 
     <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/apache-airflow.png" height="40" />
     <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/Streamlit-Logo-Vector.svg-.png" height="30" />
     <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/5997976.png" height="40" />
+    <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/mlflow.png" height="40" />
 
 </div>
 
