@@ -79,10 +79,10 @@
 <h2 align="center">Mes Projets Favoris</h2>
 
 <div align="center">
-  <a href="https://github.com/OsmanOSA/NOM_DU_REPO_1" target="_blank">
+  <a href="https://github.com/OsmanOSA/Projet_Traitement_automatique_du_langage" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsmanOSA&repo=Projet_Traitement_automatique_du_langage&theme=tokyonight&border_radius=10" />
   </a>
-  <a href="https://github.com/OsmanOSA/NOM_DU_REPO_2" target="_blank">
+  <a href="https://github.com/OsmanOSA/projet_prevision_energies_bloc5" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsmanOSA&repo=projet_prevision_energies_bloc5
 &theme=tokyonight&border_radius=10" />
   </a>
