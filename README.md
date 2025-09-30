@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/separator.svg" />
+  <img src="https://raw.githubusercontent.com/OsmanOSA/OsmanOSA/main/img_logos/data-science.png" />
 </p>
 
 <p align="center">
