@@ -83,8 +83,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsmanOSA&repo=Projet_Traitement_automatique_du_langage&theme=tokyonight&border_radius=10" />
   </a>
   <a href="https://github.com/OsmanOSA/projet_prevision_energies_bloc5" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsmanOSA&repo=projet_prevision_energies_bloc5
-&theme=tokyonight&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OsmanOSA&repo=projet_prevision_energies_bloc5&theme=tokyonight&border_radius=10" />
   </a>
 </div>
 
