@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Passionné par la transformation d'idées en réalité grâce à la Data et l'IA 
+  Je transforme les idées en réalité grâce à la Data et l'IA 
 </h3>
 
 <p align="center">
@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  Data Scientist et Machine Learning Engineer spécialisé dans la création de modèles prédictifs et la mise en place de pipelines de données robustes. J'aime explorer des ensembles de données complexes pour en extraire des insights précieux et construire des solutions intelligentes et automatisées.
+  Data Scientist Junior spécialisé en modélisation prédictive, traitement de données et valorisation d’insights métiers 
+  Formé à la conception de pipelines de données, à la mise en production de modèles Machine Learning et à la création 
+  de tableaux de bord décisionnels. Passionné par les problématiques de performance et d’optimisation industrielle, je 
+  combine rigueur technique et vision orientée résultats.  
 </p>
 
 <div align="center">
