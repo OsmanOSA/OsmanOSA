@@ -107,7 +107,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=OsmanOSA&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10&count_private=true" alt="Statistiques GitHub d'OsmanOSA" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=OsmanOSA&theme=gruvbox&border_radius=10&count_private=true" alt="Séries de contributions d'OsmanOSA" />
+      <img src="https://streak-stats.demolab.com/?user=OsmanOSA&theme=gruvbox&border_radius=10&count_private=true" alt="Séries de contributions d'OsmanOSA" />
     </td>
   </tr>
   <tr>
