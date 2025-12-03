@@ -36,7 +36,7 @@
   <a href="mailto:saidaliosman925@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/osman-said-ali-90616219a" target="_blank">
+  <a href="https://www.linkedin.com/in/osman-said-ali-90616219a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
