@@ -14,10 +14,7 @@
 </p>
 
 <p align="center">
-  Data Scientist Junior spécialisé en modélisation prédictive, traitement de données et valorisation d’insights métiers 
-  Formé à la conception de pipelines de données, à la mise en production de modèles Machine Learning et à la création 
-  de tableaux de bord décisionnels. Passionné par les problématiques de performance et d’optimisation industrielle, je 
-  combine rigueur technique et vision orientée résultats.  
+  Data Scientist spécialisé en modélisation prédictive et MLOps, avec 2 ans d'expérience en alternance chez SRD Energies. Expert dans l'industrialisation de solutions ML, j'ai notamment réduit les temps d'analyse de 90 % grâce à l'automatisation de pipelines ETL sous Airflow et PostgreSQL. Passionné par l'IA générative (RAG, LLM), je maîtrise l'ensemble de la chaîne de valeur, du développement à la mise en production via Docker et CI/CD. Disponible immédiatement pour un CDI.
 </p>
 
 <div align="center">
